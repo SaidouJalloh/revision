@@ -1,6 +1,6 @@
 """ceci est notre fonction principale"""
 
-def sum(a,b,c):
-    s= a + b + c
+def sum(a,b):
+    s= a + b 
     return s
 
