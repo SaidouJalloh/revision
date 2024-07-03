@@ -4,3 +4,4 @@ def sum(a,b,c):
     s= a + b + c
     return s
 
+print("Hello Diallo")
